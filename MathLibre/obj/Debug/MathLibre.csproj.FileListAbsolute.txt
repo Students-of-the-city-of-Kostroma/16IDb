@@ -1,0 +1,5 @@
+E:\Files\University\2 курс\ТРПО\Math\MathLibre\bin\Debug\MathLibre.dll
+E:\Files\University\2 курс\ТРПО\Math\MathLibre\bin\Debug\MathLibre.pdb
+E:\Files\University\2 курс\ТРПО\Math\MathLibre\obj\Debug\MathLibre.csprojResolveAssemblyReference.cache
+E:\Files\University\2 курс\ТРПО\Math\MathLibre\obj\Debug\MathLibre.dll
+E:\Files\University\2 курс\ТРПО\Math\MathLibre\obj\Debug\MathLibre.pdb

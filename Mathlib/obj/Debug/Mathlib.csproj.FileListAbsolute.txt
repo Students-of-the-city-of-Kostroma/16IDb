@@ -1,0 +1,6 @@
+E:\Files\University\2 курс\ТРПО\Math\Mathlib\bin\Debug\Mathlib.exe.config
+E:\Files\University\2 курс\ТРПО\Math\Mathlib\bin\Debug\Mathlib.exe
+E:\Files\University\2 курс\ТРПО\Math\Mathlib\bin\Debug\Mathlib.pdb
+E:\Files\University\2 курс\ТРПО\Math\Mathlib\obj\Debug\Mathlib.csprojResolveAssemblyReference.cache
+E:\Files\University\2 курс\ТРПО\Math\Mathlib\obj\Debug\Mathlib.exe
+E:\Files\University\2 курс\ТРПО\Math\Mathlib\obj\Debug\Mathlib.pdb

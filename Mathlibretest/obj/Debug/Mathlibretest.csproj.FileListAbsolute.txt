@@ -1,0 +1,7 @@
+E:\Files\University\2 курс\ТРПО\Math\Mathlibretest\bin\Debug\Mathlibretest.dll
+E:\Files\University\2 курс\ТРПО\Math\Mathlibretest\bin\Debug\Mathlibretest.pdb
+E:\Files\University\2 курс\ТРПО\Math\Mathlibretest\bin\Debug\MathLibre.dll
+E:\Files\University\2 курс\ТРПО\Math\Mathlibretest\bin\Debug\MathLibre.pdb
+E:\Files\University\2 курс\ТРПО\Math\Mathlibretest\obj\Debug\Mathlibretest.csprojResolveAssemblyReference.cache
+E:\Files\University\2 курс\ТРПО\Math\Mathlibretest\obj\Debug\Mathlibretest.dll
+E:\Files\University\2 курс\ТРПО\Math\Mathlibretest\obj\Debug\Mathlibretest.pdb
